@@ -1,0 +1,7 @@
+Testes
+- Help Desk conexão DEV.
+- PC da filial acessando a Internet.
+- PC ADM não acessa DEV.
+- Confirmar VLANs Broadcast (STP).
+- Filial acessa servidor Web.
+
